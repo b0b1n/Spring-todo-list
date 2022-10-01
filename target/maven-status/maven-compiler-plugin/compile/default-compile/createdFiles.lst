@@ -1,2 +1,5 @@
 maven\config\WebConfig.class
 maven\config\WebAppInitializer.class
+maven\controller\DemoController.class
+maven\DemoService.class
+maven\DemoServiceImpl.class
