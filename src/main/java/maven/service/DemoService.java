@@ -1,4 +1,4 @@
-package maven;
+package maven.service;
 
 public interface DemoService {
     public String getHelloMessage(String user);

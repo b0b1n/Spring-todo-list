@@ -1,4 +1,4 @@
-package maven;
+package maven.service;
 
 import org.springframework.stereotype.Service;
 
