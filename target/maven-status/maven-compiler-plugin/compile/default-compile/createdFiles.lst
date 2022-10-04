@@ -9,4 +9,5 @@ maven\config\WebAppInitializer.class
 maven\service\TodoItemService.class
 maven\model\TodoItem.class
 maven\service\TodoItemServiceImpl.class
+maven\util\AttributeNames.class
 maven\util\Mappings.class

@@ -29,8 +29,9 @@ public class TodoData {
     }
 
     public void addItem(@NonNull TodoItem toAdd){
-        toAdd.setId(idValue++);
+        toAdd.setId(idValue);
         items.add(toAdd);
+        idValue++;
     }
 
     public void removeItem(int id){

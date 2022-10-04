@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>WELCOME</title>
+    <title>List of items</title>
 </head>
 <body>
 <div align="center">
