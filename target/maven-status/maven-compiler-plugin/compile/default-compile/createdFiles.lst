@@ -1,10 +1,12 @@
 maven\config\WebConfig.class
 maven\util\ViewNames.class
-maven\model\TodoItem.class
 maven\controller\DemoController.class
 maven\model\TodoData.class
 maven\service\DemoService.class
 maven\service\DemoServiceImpl.class
 maven\controller\TodoItemController.class
 maven\config\WebAppInitializer.class
+maven\service\TodoItemService.class
+maven\model\TodoItem.class
+maven\service\TodoItemServiceImpl.class
 maven\util\Mappings.class
